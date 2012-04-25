@@ -1,0 +1,1 @@
+super simple calculator to use while developing. so far it just takes in target px and context px and outputs ems and percents to use in responsive design stylesheets (outputs css comment too). like i said super simple… it's mostly a private learning project. more will be added. 
